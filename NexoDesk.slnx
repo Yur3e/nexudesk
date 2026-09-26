@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/backend/">
+    <Project Path="backend/NexoDesk.Api/NexoDesk.Api.csproj" />
+    <Project Path="backend/NexoDesk.Application/NexoDesk.Application.csproj" />
+    <Project Path="backend/NexoDesk.Domain/NexoDesk.Domain.csproj" />
+    <Project Path="backend/NexoDesk.Infrastructure/NexoDesk.Infrastructure.csproj" />
+    <Project Path="backend/NexoDesk.Tests/NexoDesk.Tests.csproj" />
+  </Folder>
+</Solution>
